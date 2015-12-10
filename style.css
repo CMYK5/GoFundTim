@@ -9,6 +9,7 @@ button {
 	height: 60px;
 	width: 140px;
 	font-size: 24px;
+	border-radius: 6px;
 }
 p {display: none;
 }
