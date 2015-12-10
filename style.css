@@ -6,6 +6,9 @@ img, button {
 
 button {
 	margin-top: 20px;
+	height: 60px;
+	width: 140px;
+	font-size: 24px;
 }
 p {display: none;
 }
