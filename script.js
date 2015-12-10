@@ -4,4 +4,12 @@ $(document).ready(function() {
 		var thanks = thanks[Math.floor(Math.random()*thanks.length)];
   		alert( thanks );
 	})
+
+	$("#img").hover(function() {
+		$(this).attr("src","img/Tim.jpg");
+			}, function() {
+		$(this).attr("src","img/Alf.jpg");
+	});
 });
+
+
